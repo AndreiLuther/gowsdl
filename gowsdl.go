@@ -528,9 +528,6 @@ func stripns(xsdType string) string {
 }
 
 func makePublic(identifier string) string {
-	if isBasicType(identifier) {
-		return identifier
-	}
 	field := []rune(identifier)
 	if len(field) == 0 {
 		return identifier
