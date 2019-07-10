@@ -13,7 +13,7 @@ import (
 	"context"
 	"encoding/xml"
 	"time"
-	"github.com/AndreiLuther/gowsdl/soap"
+	"github.com/andrei-at-luther/gowsdl/soap"
 
 	{{/*range .Imports*/}}
 		{{/*.*/}}

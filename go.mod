@@ -1,1 +1,1 @@
-module github.com/AndreiLuther/gowsdl
+module github.com/andrei-at-luther/gowsdl
