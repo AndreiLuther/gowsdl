@@ -1,4 +1,4 @@
-GHACCOUNT := AndreiLuther
+GHACCOUNT := andrei-at-luther
 NAME := gowsdl
 VERSION := v0.2.1
 
